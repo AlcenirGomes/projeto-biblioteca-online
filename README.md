@@ -1,36 +1,36 @@
-## **Projeto Biblioteca Online - Estante Mágica**
+## **Online Library Project - Magic Bookshelf**
 
 ### **TL;DR:**
 
-Criei uma biblioteca online super bacana pra você encontrar seus livros favoritos rapidinho!  Basta digitar o nome do livro, autor ou até mesmo um gênero, e a mágica acontece: a aplicação te mostra todos os detalhes do livro, como sinopse, autor, gênero e até um link pra você saber mais. 
+I've created a super cool online library for you to find your favorite books quickly! Just type the book's name, author, or even a genre, and the magic happens: the application shows you all the book's details, such as synopsis, author, genre, and even a link for you to learn more.
 
-### **Como Funciona Essa Magia Toda?**
+### **How Does All This Magic Work?**
 
-**1. A Busca:**
-   * Você digita o que procura na caixinha de pesquisa. 
-   * A aplicação pega essa palavra e sai procurando em todos os livros da nossa biblioteca virtual.
-   * **Dica:** Use palavras-chave para resultados mais precisos!
+**1. The Search:**
+   * You type what you're looking for in the search box.
+   * The application takes that word and searches through all the books in our virtual library.
+   * **Tip:** Use keywords for more accurate results!
+     
+**2. The Results:**
+   * If we find something, we show you a list with all the books that match your search.
+   * Each book has a card with all the important information: title, author, synopsis, and even a link for you to read more about it.
+     
+**3. The Technology Behind It:**
+   * **HTML:** The basic structure of our page, like titles, buttons, and text boxes.
+   * **CSS:** Makes everything pretty and organized, with cool colors and fonts.
+   * **JavaScript:** The smartest part! It's the one that does the search, compares the words, and displays the results on the screen.
+   * **JSON:** Stores all the book data in an organized way, to make searching easier.
+     
+### **What Is It For?**
 
-**2. Os Resultados:**
-   * Se encontrarmos algo, te mostramos uma listinha com todos os livros que combinam com a sua busca.
-   * Cada livro tem um card com todas as informações importantes: título, autor, sinopse e até um link pra você ler mais sobre ele.
+* **Find books quickly:** No more searching through library shelves!
+* **Discover new authors and genres:** The application helps you find books you might not even know about.
+* **Share with friends:** Found a cool book? Share the link with your friends!
+  
+### **What's Missing to Make It Perfect?**
 
-**3. A Tecnologia por Trás:**
-   * **HTML:** A estrutura básica da nossa página, como os títulos, botões e caixas de texto.
-   * **CSS:** Deixa tudo bonitinho e organizado, com cores e fontes legais.
-   * **JavaScript:** A parte mais inteligente! É ele quem faz a busca, compara as palavras e mostra os resultados na tela.
-   * **JSON:** Armazena todos os dados dos livros de forma organizada, pra facilitar a busca.
+* **More books:** We're always adding new books to our library.
+* **Filters:** Want to find books of a specific genre? We'll soon have filters to make your search easier.
+* **Reviews:** Want to leave your opinion about a book? Soon you'll be able to rate books and see other users' reviews.
 
-### **Para que Serve?**
-
-* **Encontrar livros rapidinho:** Não precisa mais ficar procurando nos armários da biblioteca!
-* **Descobrir novos autores e gêneros:** A aplicação te ajuda a encontrar livros que você talvez nem conhecesse.
-* **Compartilhar com os amigos:** Achou um livro legal? Compartilha o link com seus amigos!
-
-### **O que Falta Pra Ficar Perfeito?**
-
-* **Mais livros:** Estamos sempre adicionando novos livros à nossa biblioteca.
-* **Filtros:** Quer encontrar livros de um gênero específico? Em breve teremos filtros para facilitar a sua busca.
-* **Avaliações:** Quer deixar sua opinião sobre um livro? Em breve você poderá avaliar os livros e ver as avaliações de outros usuários.
-
-### **Contribua com a Nossa Biblioteca!**
+### **Contribute to Our Library!**
